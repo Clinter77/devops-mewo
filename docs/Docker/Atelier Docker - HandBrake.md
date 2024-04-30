@@ -22,4 +22,5 @@ Pour vérifier ses logs docker logs id_container : docker logs caa571803fd1
 ## Comment arrêter, redémarrer, et finalement supprimer un conteneur et une image?
 Pour le démarrer docker start id_container : docker start caa571803fd1
 Pour le stopper docker pause id_container : docker pause caa571803fd1
+Pour le redémarrer docker unpause id_container : docker unpause caa571803fd1
 Et pour supprimer : docker rm 
